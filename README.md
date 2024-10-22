@@ -27,4 +27,12 @@ This project implements a real-time data processing system to monitor weather co
    git clone https://github.com/yourusername/WeatherMonitoringSystem.git
    cd WeatherMonitoringSystem
    
-2.  **Clone the repository:**
+2.  **Set up a virtual environment (optional but recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+3.  ** Install dependencies: **
+   ```bash
+
+
