@@ -34,7 +34,26 @@ This project implements a real-time data processing system to monitor weather co
    ```
    
 3. **Clone the repository:**
+   ```bash
+   pip install -r requirements.txt
+   ```
    
+4. **Set up the database:**
+   The database will be automatically created upon running the application.
+
+## Configuration
+   Before running the application, set your OpenWeatherMap API key in the weather_data.py file:
+   ```bash
+   API_KEY = 'your_api_key_here'
+   ```
+
+## Running the Application
+**Without Docker**
+
+
+
+
+
    
 
 
