@@ -62,8 +62,19 @@ This project implements a real-time data processing system to monitor weather co
    ```bash
    docker run -d -p 80:80 weather-monitoring-system
    ```
-  
+**Testing**
+The following test cases should be implemented to ensure system functionality:
 
+1. System Setup:
+  - Verify successful API connection with a valid key.
+2. Data Retrieval:
+  - Simulate API calls and ensure data is retrieved and parsed correctly.
+3. Temperature Conversion:
+  - Test temperature conversions between Kelvin, Celsius, and Fahrenheit.
+4. Daily Weather Summary:
+  - Verify daily summaries for multiple days.
+5. Alerting Thresholds:
+  - Configure thresholds and test alert triggering.
 
 
 
