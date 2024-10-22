@@ -76,8 +76,10 @@ The following test cases should be implemented to ensure system functionality:
 5. Alerting Thresholds:
     - Configure thresholds and test alert triggering.
 
+**Bonus Features**
+  - Support for additional weather parameters (e.g., humidity, wind speed).
+  - Integration of weather forecasts.
 
-
-   
+  
 
 
