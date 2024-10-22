@@ -31,8 +31,9 @@ This project implements a real-time data processing system to monitor weather co
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+  ```
 
-3.  ** Install dependencies: **
-   ```bash
+3.   **Clone the repository:**
+   
 
 
