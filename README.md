@@ -49,7 +49,20 @@ This project implements a real-time data processing system to monitor weather co
 
 ## Running the Application
 **Without Docker**
-
+   Start the application:
+   ```bash
+   python src/weather_data.py
+   ```
+**With Docker**
+1. Build the Docker image:
+   ```bash
+   docker build -t weather-monitoring-system .
+   ```
+2. Run the Docker container:
+   ```bash
+   docker run -d -p 80:80 weather-monitoring-system
+   ```
+  
 
 
 
