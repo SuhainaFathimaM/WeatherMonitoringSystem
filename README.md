@@ -31,6 +31,7 @@ This project implements a real-time data processing system to monitor weather co
    ```bash
    git clone https://github.com/yourusername/WeatherMonitoringSystem.git
    cd WeatherMonitoringSystem
+```
 
 3.   **Clone the repository:**
    
